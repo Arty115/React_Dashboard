@@ -13,7 +13,7 @@ A responsive **Crypto Dashboard** built with **React** and **Recharts** that all
 - Lightweight and visually appealing UI.
 
 ---
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the project or unzip this folder
 
@@ -67,6 +67,7 @@ Author
 Aditya Deshmukh
 
 GitHub: https://github.com/Arty115
+
 
 
 
